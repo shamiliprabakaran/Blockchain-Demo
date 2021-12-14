@@ -1,1 +1,1 @@
-# Blockchain-Demo
+# Blockchain Hashing concept
