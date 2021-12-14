@@ -1,4 +1,4 @@
-# Blockchain Demo
+# Blockchain-hashing concept
 A web-based demonstration of blockchain concepts.
 
 [![Blockchain 101 - Demo](https://img.youtube.com/vi/_160oMzblY8/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
